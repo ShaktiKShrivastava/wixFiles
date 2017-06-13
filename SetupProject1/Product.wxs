@@ -4,6 +4,7 @@
 		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
 
   <!--  <WixVariable Id="WixUILicenseRtf" Value="C:\Users\39232\Documents\Visual Studio 2017\Projects\shakti_kumar\SetupProject1\someRandomLicence.rtf" />
+Issue with the license agreements
 -->
     <UIRef Id="WixUI_Minimal"/>
 		
