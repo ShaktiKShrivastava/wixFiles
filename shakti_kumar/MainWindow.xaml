@@ -17,9 +17,9 @@
                 </TransformGroup>
             </Button.RenderTransform>
         </Button>
-        <Label Content="As part of the joint venture between NASA and ESA, we would like to invite you&#xD;&#xA; for a year round space program at the Kennedy Space Center, Titusville.&#xD;&#xA;." Height="48" Margin="54,158,0,0" VerticalAlignment="Top" Width="430" HorizontalAlignment="Left"/>
+        <Label Content="As part of the joint venture between &lt;&gt; and &lt;&gt;, we would like to invite you&#xA; for a year round space program at the &lt;&gt;, Titusville.&#xA;." Height="48" Margin="54,158,0,0" VerticalAlignment="Top" Width="430" HorizontalAlignment="Left"/>
         <Image HorizontalAlignment="Left" Height="140" Margin="169,34,0,0" VerticalAlignment="Top" Width="180" Source="./nasa.jpg" RenderTransformOrigin="0.501,0.392"/>
-        <Label Content="National Aeronautics and Space Administration" HorizontalAlignment="Left" Height="34" Margin="112,10,0,0" VerticalAlignment="Top" Width="326" FontWeight="ExtraBlack"/>
+        <Label Content="&lt;&gt;" HorizontalAlignment="Left" Height="34" Margin="112,10,0,0" VerticalAlignment="Top" Width="326" FontWeight="ExtraBlack"/>
         <Button x:Name="Yes_I_accept_Copy" Content="No, I don't" HorizontalAlignment="Left" Height="19" Margin="310,285,0,0" VerticalAlignment="Top" Width="69" RenderTransformOrigin="0.5,0.5">
             <Button.RenderTransform>
                 <TransformGroup>
