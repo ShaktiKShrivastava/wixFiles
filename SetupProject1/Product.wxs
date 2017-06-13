@@ -3,7 +3,8 @@
 	<Product Id="05080cdf-0f3f-40fd-8192-329325bb8239" Name="dummyShakti" Language="1033" Version="1.0.0.0" Manufacturer="Shakti Kumar" UpgradeCode="0e569ca9-6668-4306-b076-093f85291c72">
 		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
     
-   
+    <UIRef Id="WixUI_Minimal"/>
+		
     <MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
 		<MediaTemplate />
 
