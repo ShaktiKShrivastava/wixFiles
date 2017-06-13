@@ -1,0 +1,2 @@
+C:\Users\39232\documents\visual studio 2017\Projects\shakti_kumar\shakti_kumar\bin\Debug\shakti_kumar.exe
+C:\Users\39232\documents\visual studio 2017\Projects\shakti_kumar\shakti_kumar\bin\Debug\shakti_kumar.exe.config

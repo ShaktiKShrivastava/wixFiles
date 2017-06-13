@@ -1,0 +1,36 @@
+﻿<Window x:Class="shakti_kumar.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:shakti_kumar"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="Yes_I_accept" Content="Yes, I do" HorizontalAlignment="Left" Height="19" Margin="154,283,0,0" VerticalAlignment="Top" Width="69" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.03"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Label Content="As part of the joint venture between NASA and ESA, we would like to invite you&#xD;&#xA; for a year round space program at the Kennedy Space Center, Titusville.&#xD;&#xA;." Height="48" Margin="54,158,0,0" VerticalAlignment="Top" Width="430" HorizontalAlignment="Left"/>
+        <Image HorizontalAlignment="Left" Height="140" Margin="169,34,0,0" VerticalAlignment="Top" Width="180" Source="./nasa.jpg" RenderTransformOrigin="0.501,0.392"/>
+        <Label Content="National Aeronautics and Space Administration" HorizontalAlignment="Left" Height="34" Margin="112,10,0,0" VerticalAlignment="Top" Width="326" FontWeight="ExtraBlack"/>
+        <Button x:Name="Yes_I_accept_Copy" Content="No, I don't" HorizontalAlignment="Left" Height="19" Margin="310,285,0,0" VerticalAlignment="Top" Width="69" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.03"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Label Content="Please acknowledge this application" HorizontalAlignment="Left" Height="40" Margin="169,206,0,0" VerticalAlignment="Top" Width="228"/>
+
+    </Grid>
+</Window>

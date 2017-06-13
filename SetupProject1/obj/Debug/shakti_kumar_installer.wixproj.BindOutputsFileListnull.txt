@@ -1,0 +1,3 @@
+C:\Users\39232\documents\visual studio 2017\Projects\shakti_kumar\SetupProject1\bin\Debug\cab1.cab
+C:\Users\39232\documents\visual studio 2017\Projects\shakti_kumar\SetupProject1\bin\Debug\shakti_kumar.msi
+C:\Users\39232\documents\visual studio 2017\Projects\shakti_kumar\SetupProject1\bin\Debug\shakti_kumar.wixpdb

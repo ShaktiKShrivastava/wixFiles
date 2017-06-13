@@ -1,0 +1,7 @@
+c:\users\39232\documents\visual studio 2017\Projects\shakti_kumar\SetupProject1\bin\Debug\cab1.cab
+obj\Debug\Product.wixobj
+obj\Debug\shakti_kumar_installer.wixproj.BindContentsFileListnull.txt
+obj\Debug\shakti_kumar_installer.wixproj.BindOutputsFileListnull.txt
+obj\Debug\shakti_kumar_installer.wixproj.BindBuiltOutputsFileListnull.txt
+c:\users\39232\documents\visual studio 2017\Projects\shakti_kumar\SetupProject1\bin\Debug\shakti_kumar.msi
+c:\users\39232\documents\visual studio 2017\Projects\shakti_kumar\SetupProject1\bin\Debug\shakti_kumar.wixpdb

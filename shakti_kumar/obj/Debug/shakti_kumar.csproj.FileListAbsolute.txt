@@ -1,0 +1,14 @@
+c:\users\39232\documents\visual studio 2017\Projects\shakti_kumar\shakti_kumar\bin\Debug\shakti_kumar.exe.config
+c:\users\39232\documents\visual studio 2017\Projects\shakti_kumar\shakti_kumar\bin\Debug\shakti_kumar.exe
+c:\users\39232\documents\visual studio 2017\Projects\shakti_kumar\shakti_kumar\bin\Debug\shakti_kumar.pdb
+c:\users\39232\documents\visual studio 2017\Projects\shakti_kumar\shakti_kumar\obj\Debug\MainWindow.g.cs
+c:\users\39232\documents\visual studio 2017\Projects\shakti_kumar\shakti_kumar\obj\Debug\App.g.cs
+c:\users\39232\documents\visual studio 2017\Projects\shakti_kumar\shakti_kumar\obj\Debug\shakti_kumar_MarkupCompile.cache
+c:\users\39232\documents\visual studio 2017\Projects\shakti_kumar\shakti_kumar\obj\Debug\shakti_kumar_MarkupCompile.lref
+c:\users\39232\documents\visual studio 2017\Projects\shakti_kumar\shakti_kumar\obj\Debug\MainWindow.baml
+c:\users\39232\documents\visual studio 2017\Projects\shakti_kumar\shakti_kumar\obj\Debug\shakti_kumar.g.resources
+c:\users\39232\documents\visual studio 2017\Projects\shakti_kumar\shakti_kumar\obj\Debug\shakti_kumar.Properties.Resources.resources
+c:\users\39232\documents\visual studio 2017\Projects\shakti_kumar\shakti_kumar\obj\Debug\shakti_kumar.csproj.GenerateResource.Cache
+c:\users\39232\documents\visual studio 2017\Projects\shakti_kumar\shakti_kumar\obj\Debug\shakti_kumar.exe
+c:\users\39232\documents\visual studio 2017\Projects\shakti_kumar\shakti_kumar\obj\Debug\shakti_kumar.pdb
+c:\users\39232\documents\visual studio 2017\Projects\shakti_kumar\shakti_kumar\obj\Debug\shakti_kumar.csprojResolveAssemblyReference.cache
