@@ -14,7 +14,7 @@ StrInput = InputBox("10.65.41.130")
 strComputer = StrInput
 strInstaller = "msiexec.exe /i C:\Users\39232\Desktop\shakti_kumar /quiet"
 strFilePath = "c:\Users\39232\Desktop\shakti_kumar"
-strDestination = "\\" & strComputer & "C:\Users\39232\Desktop\shakti_kumar"
+strDestination = "C:\Users\39232\Desktop\shakti_kumar2"
 
 'Display the variables when it runs
 WScript.Echo "Target Computer: " & strComputer
